@@ -2,9 +2,9 @@
 <h2 align='center'>
   Hi there 👋 I'm Shambhawi 👩
 </h2>
-<h3 align='center'>
+<h4 align='center'>
   Always eager to learn new stuff!
-</h3>
+</h4>
 <br>
 
 <h3>About Me</h3>
