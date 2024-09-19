@@ -9,9 +9,9 @@
 
 <h3>About Me</h3>
 <ul>
-  <li>👨‍🎓Currently pursuing B.Tech in Electronics and Electrical Engineering from IIT Guwahati.</li>
+  <li>👨‍🎓A B.Tech graduate in Electronics and Electrical Engineering from IIT Guwahati.</li>
   <li>✨ Fascinated by coding and problem solving.</li>
-  <li>💻 A amateur web developer.</li>
+  <li>💻 Java developer, curious and driven.</li>
   <li>⚡ Fun fact: I love culture. I'm a trained Bharatnatyam dancer and I love to sing too.
 </ul>
 
