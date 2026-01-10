@@ -9,7 +9,8 @@
 
 <h3>About Me</h3>
 <ul>
-  <li>👨‍🎓A B.Tech graduate in Electronics and Electrical Engineering from IIT Guwahati.</li>
+  <li>👨‍🎓Pursuing MS in CS from Columbia University, New York</li>
+  <li>👨‍🎓A B.Tech graduate in Electronics and Electrical Engineering from IIT Guwahati (2019-2023)</li>
   <li>✨ Fascinated by coding and problem solving.</li>
   <li>💻 Java developer, curious and driven.</li>
   <li>⚡ Fun fact: I love culture. I'm a trained Bharatnatyam dancer and I love to sing too.
